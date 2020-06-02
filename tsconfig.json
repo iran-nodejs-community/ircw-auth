@@ -8,8 +8,7 @@
     "noImplicitAny": true,
     "moduleResolution": "Node",
     "strict": true,
-    "strictNullChecks": true,
-    "noEmit": true
+    "strictNullChecks": true
   },
   "exclude": ["node_modules"]
 }
